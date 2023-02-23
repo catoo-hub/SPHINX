@@ -1,0 +1,43 @@
+{
+    "app_title": "Application",
+    "app_custom_id": "test_custom:id",
+    "button_name": "APPLY NOW",
+    "embed_name": "Sphinx Applications",
+    "embed_colour": "163, 128, 255",
+    "embed_description": "**Application Rules**\n\n1. No Heavy IB/Remakes.\n2. Strictly NOT Accepting Styles like; Rotos, Game Edits, Nep/Glitch.\n3. No Arguing to the judges (please dont be immature).\n4. Any Presets or Using Project files will result to receive a hard Decline.\n\n\nThe Judges will give you the following Results and the Founder will give you the official or final result of your edit below;\n\nAccept - You passed the Standards of this unit, you are welcome to be our member.\n\nTrial - You lack something, or they want to see more of your edits, you will be given a Trial Role in order to improve your edit.\n\nReapply - You have potential, but you have some things to improve or to be fix, You can ask the judges for some advice, You can apply again.\n\nDecline - This means you have a lot of things to improve, in short, your edit didn't passed the standards in this unit, come back next time.",
+    "submit_channel_id": 941998716221542422,
+    "questions": [
+        {
+            "question": "GFX or AMV?",
+            "placeholder": "example. AMV",
+            "required": true,
+            "style": "input",
+            "input_style": "short",
+            "custom_id": "test_id_2"
+        },
+        {
+            "question": "Editing Software?",
+            "placeholder": "example. After Effects / AE",
+            "required": true,
+            "style": "input",
+            "input_style": "short",
+            "custom_id": "custom_id_short"
+        },
+        {
+            "question": "Link to your edit.",
+            "placeholder": "any YouTube, Instagram profile link", 
+            "required": true,
+            "style": "input",
+            "input_style": "short",
+            "custom_id": "custom_id_short2"
+        },
+        {
+            "question": "Why do you want to join Sphinx?",
+            "placeholder": "i love this unit <33", 
+            "required": true,
+            "style": "input",
+            "input_style": "short",
+            "custom_id": "custom_id_short3"
+        }
+    ]
+}
